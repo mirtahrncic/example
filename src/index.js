@@ -1,5 +1,11 @@
 class Person {
     greet() {
-        console.log('hello');
+        return "Hello";
+
+
+
+
+
+        
     }
 }
