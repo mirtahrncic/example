@@ -1,6 +1,6 @@
 class Teacher {
     greet() {
-        return "Hello";
+        formatter.greet('John')
     }
 
     noOfLegs() {
