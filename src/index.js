@@ -1,1 +1,5 @@
-console.log('here + 1');
+class Person {
+    greet() {
+        console.log('hello');
+    }
+}
