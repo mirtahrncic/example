@@ -1,4 +1,4 @@
-class Person {
+class Teacher {
     greet() {
         return "Hello";
 
